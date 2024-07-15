@@ -1,0 +1,18 @@
+from itertools import permutations  
+seq = permutations(['1','2','3'])  
+print(seq)  
+for p in list(seq):  
+   print(p)  
+
+
+
+
+import itertools  
+    
+seq = "ABC"  
+    
+com_seq = itertools.combinations(seq, 2)  
+    
+for c in com_seq:  
+    print(c)  
+Output:
