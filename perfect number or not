@@ -7,4 +7,4 @@ if(sum_v==num):
     print("The entered number is a perfect number")  
 else:  
     print("The entered number is not a perfect number")  
-Output:
+
